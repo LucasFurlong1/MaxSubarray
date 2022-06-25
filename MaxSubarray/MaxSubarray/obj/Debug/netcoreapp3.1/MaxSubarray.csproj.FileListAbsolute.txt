@@ -1,0 +1,13 @@
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\bin\Debug\netcoreapp3.1\MaxSubarray.exe
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\bin\Debug\netcoreapp3.1\MaxSubarray.deps.json
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\bin\Debug\netcoreapp3.1\MaxSubarray.runtimeconfig.json
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\bin\Debug\netcoreapp3.1\MaxSubarray.runtimeconfig.dev.json
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\bin\Debug\netcoreapp3.1\MaxSubarray.dll
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\bin\Debug\netcoreapp3.1\MaxSubarray.pdb
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\obj\Debug\netcoreapp3.1\MaxSubarray.csprojAssemblyReference.cache
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\obj\Debug\netcoreapp3.1\MaxSubarray.AssemblyInfoInputs.cache
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\obj\Debug\netcoreapp3.1\MaxSubarray.AssemblyInfo.cs
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\obj\Debug\netcoreapp3.1\MaxSubarray.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\obj\Debug\netcoreapp3.1\MaxSubarray.dll
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\obj\Debug\netcoreapp3.1\MaxSubarray.pdb
+C:\Users\Lucas Furlong\source\repos\MaxSubarray\MaxSubarray\obj\Debug\netcoreapp3.1\MaxSubarray.genruntimeconfig.cache

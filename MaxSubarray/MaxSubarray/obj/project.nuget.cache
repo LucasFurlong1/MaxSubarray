@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rgxO1P71W4FAcHQb24k4tImUGencOkbLAd4LpvQ94VJ3ANIqlSldZp1PNy3gHnLRgqWwNuKqt3+0onnD1wHp6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas Furlong\\source\\repos\\MaxSubarray\\MaxSubarray\\MaxSubarray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas Furlong\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
